@@ -1,0 +1,28 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Copyright (c) 2000, 2021, Oracle andor its affiliates. This is a release of MySQL ConnectorJ, a JDBC Type 4 driver for MySQL that also supports the new X DevAPI. License information can be found in the LICENSE file. This distribution may include materials developed by third parties. For license and attribution notices for these materials, please refer to the LICENSE file. For more information on MySQL ConnectorJ, visit https:dev.mysql.comdocconnector-j8.0en For additional downloads and the source of MySQL ConnectorJ, visit https:dev.mysql.comdownloads MySQL ConnectorJ is brought to you by the MySQL team at Oracle. Notice: - In order to use the logging capabilities provided by the default implementation com.mysql.cj.log.Slf4JLogger, it is required to add one or more jars for Simple Logging Facade for Java (SLF4J) to your CLASSPATH. - To use the X DevAPI features in ConnectorJ, you also need the external library protobuf-java, which you can download manually from the official Maven repository and add it to the CLASSPATH, or use Maven's automatic dependency resolution features by adding a dependency to &quot;GroupId: mysql&quot; and &quot;ArtifactId: mysql-connector-java&quot; to your project's pom.xml file." />
+      <item value="Written when an updating statement is done" />
+      <item value="Events of this event type should never occur. Not written to a binary log" />
+      <item value="Precondition Required" />
+      <item value="Service Unavailable" />
+      <item value="Variant Also Negotiates" />
+      <item value="Insufficient Storage" />
+      <item value="UPGRADE_REQUIRED(426, HttpStatus.Series.CLIENT_ERROR, &quot;Upgrade Required&quot;), PRECONDITION_REQUIRED(428, HttpStatus.Series.CLIENT_ERROR, &quot;Precondition Required&quot;), TOO_MANY_REQUESTS(429, HttpStatus.Series.CLIENT_ERROR, &quot;Too Many Requests&quot;), REQUEST_HEADER_FIELDS_TOO_LARGE(431, HttpStatus.Series.CLIENT_ERROR, &quot;Request Header Fields Too Large&quot;), UNAVAILABLE_FOR_LEGAL_REASONS(451, HttpStatus.Series.CLIENT_ERROR, &quot;Unavailable For Legal Reasons&quot;), INTERNAL_SERVER_ERROR(500, HttpStatus.Series.SERVER_ERROR, &quot;Internal Server Error&quot;), NOT_IMPLEMENTED(501, HttpStatus.Series.SERVER_ERROR, &quot;Not Implemented&quot;), BAD_GATEWAY(502, HttpStatus.Series.SERVER_ERROR, &quot;Bad Gateway&quot;), SERVICE_UNAVAILABLE(503, HttpStatus.Series.SERVER_ERROR, &quot;Service Unavailable&quot;), GATEWAY_TIMEOUT(504, HttpStatus.Series.SERVER_ERROR, &quot;Gateway Timeout&quot;), HTTP_VERSION_NOT_SUPPORTED(505, HttpStatus.Series.SERVER_ERROR, &quot;HTTP Version not supported&quot;), VARIANT_ALSO_NEGOTIATES(506, HttpStatus.Series.SERVER_ERROR, &quot;Variant Also Negotiates&quot;), INSUFFICIENT_STORAGE(507, HttpStatus.Series.SERVER_ERROR, &quot;Insufficient Storage&quot;), LOOP_DETECTED(508, HttpStatus.Series.SERVER_ERROR, &quot;Loop Detected&quot;), BANDWIDTH_LIMIT_EXCEEDED(509, HttpStatus.Series.SERVER_ERROR, &quot;Bandwidth Limit Exceeded&quot;), NOT_EXTENDED(510, HttpStatus.Series.SERVER_ERROR, &quot;Not Extended&quot;), NETWORK_AUTHENTICATION_REQUIRED(511, HttpStatus.Series.SERVER_ERROR, &quot;Network Authentication Required&quot;)" />
+      <item value="Bandwidth Limit Exceeded" />
+      <item value="Indicates that the persistence provider should pick an appropriate strategy for the particular database. The &lt;code&gt;AUTO&lt;code&gt; generation strategy may expect a database resource to exist, or it may attempt to create one. A vendor may provide documentation on how to create such resources in the event that it does not support schema generation or cannot create the schema resource at runtime." />
+      <item value="Indicates that the persistence provider must assign primary keys for the entity using database identity column." />
+      <item value="down Patient" />
+      <item value="description" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1631006388265" />
+  </component>
+</application>

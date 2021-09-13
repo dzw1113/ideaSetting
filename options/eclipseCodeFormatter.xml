@@ -1,0 +1,26 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="donationNagger">
+      <DonationNagger>
+        <option name="actionsExecuted" value="560" />
+        <option name="firstUsage" value="1551164311470" />
+        <option name="firstUsedVersion" value="18.2.181.000.0-Eclipse_4.9.0" />
+      </DonationNagger>
+    </option>
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1551056483485" />
+          <option name="name" value="new" />
+          <option name="pathToConfigFileJava" value="E:/hd2.0/02_技术相关/eclipse格式化/java_formatter.xml" />
+          <option name="selectedJavaProfile" value="P3C-CodeStyle" />
+        </Settings>
+        <Settings>
+          <option name="id" value="1567995882405" />
+          <option name="name" value="xtt2.0" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,19 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="FindInPath" />
+  <action id="HippieCompletion" />
+  <action id="Macro.格式化+导包+保存">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="SaveAll" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+</keymap>
