@@ -1,0 +1,56 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="EclipseCodeFormatterProjectSettings">
+        <option name="projectSpecificProfile">
+          <ProjectSpecificProfile>
+            <option name="disabledFileTypes" value="css;html;js;" />
+            <option name="formatter" value="ECLIPSE" />
+            <option name="pathToConfigFileJava" value="F:/svn/hd2.0/02_技术相关/eclipse格式化/java_formatter.xml" />
+            <option name="selectedJavaProfile" value="P3C-CodeStyle" />
+          </ProjectSpecificProfile>
+        </option>
+      </component>
+      <component name="Git.Settings">
+        <option name="UPDATE_TYPE" value="REBASE" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="userSettingsFile" value="D:\dev\maven\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="F:/svn/hd2.0/02_技术相关/eclipse格式化/java_formatter.xml" />
+        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+      </component>
+      <component name="SaveActionSettings">
+        <option name="actions">
+          <set>
+            <option value="activate" />
+            <option value="organizeImports" />
+            <option value="reformat" />
+          </set>
+        </option>
+        <option name="configurationPath" value="" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>jdk8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.20018709" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
